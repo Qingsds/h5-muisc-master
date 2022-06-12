@@ -1,5 +1,5 @@
 const Singers = () => {
-  return <div>Singers</div>
+  return <div></div>
 }
 
 export default Singers
